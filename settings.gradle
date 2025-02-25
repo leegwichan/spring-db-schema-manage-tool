@@ -1,0 +1,6 @@
+rootProject.name = 'schema'
+
+include 'core'
+include 'flyway'
+include 'liquibase'
+
